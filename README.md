@@ -1,0 +1,2 @@
+# ASPNetCoreMVCSchoolProject
+ ASP.NET Core
